@@ -1,0 +1,10 @@
+# ninja log v5
+227	2075	7932247458316967	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	562c1791a4a39d64
+218	2099	7932247458644751	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	fba6a169e67bd05e
+200	2135	7932247458983041	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1f11f89c7555582
+251	2150	7932247459161672	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	516c7927d6472808
+209	2194	7932247459546480	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	26088f09e3c367b5
+264	2318	7932247460846679	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	25a7bfe906c44aee
+239	2415	7932247461802337	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	87a2a1149d4fe389
+1	2517	7932247462798944	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ca994dd16d48e367
+2518	2968	7932247467362427	D:/GameDev/denys-but-raccoons-games-test-task/raccoons-games-test-task/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3g6v6r6t/obj/arm64-v8a/libgame.so	303ff5961803e7c8

@@ -1,0 +1,1 @@
+D:\GameDev\denys-but-raccoons-games-test-task\raccoons-games-test-task\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3g6v6r6t\obj\arm64-v8a

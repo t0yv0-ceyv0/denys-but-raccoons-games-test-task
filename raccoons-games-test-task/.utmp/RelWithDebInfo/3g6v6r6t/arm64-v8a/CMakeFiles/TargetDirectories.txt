@@ -1,0 +1,5 @@
+D:/GameDev/denys-but-raccoons-games-test-task/raccoons-games-test-task/.utmp/RelWithDebInfo/3g6v6r6t/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/GameDev/denys-but-raccoons-games-test-task/raccoons-games-test-task/.utmp/RelWithDebInfo/3g6v6r6t/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/GameDev/denys-but-raccoons-games-test-task/raccoons-games-test-task/.utmp/RelWithDebInfo/3g6v6r6t/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/GameDev/denys-but-raccoons-games-test-task/raccoons-games-test-task/.utmp/RelWithDebInfo/3g6v6r6t/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/GameDev/denys-but-raccoons-games-test-task/raccoons-games-test-task/.utmp/RelWithDebInfo/3g6v6r6t/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
